@@ -4,7 +4,6 @@ The best practice for managing members is to organize them in a spreadsheet. You
 
 ^02dfdc
 
-
 | Legend | ![[Pasted image 20260415223101.png]]                     |
 | ------ | -------------------------------------------------------- |
 | SC     | Screen Controller, more commonly known as Media Operator |
@@ -22,7 +21,9 @@ The best practice for managing members is to organize them in a spreadsheet. You
 ![[Pasted image 20260417150127.png]]
 Creating a monthly deck allows you to be more organized, and it is easier to send and communicate to the entire team.
 
+<center>
 ![[Pasted image 20260417212005.png|537]]
+</center>
 A row is highlighted green for the upcoming date, yellow for the following week.
 
 ![[Pasted image 20260417212644.png|539]]
@@ -31,5 +32,7 @@ Missing people from important roles are highlighted in red.
 # Message
 
 ^192405
-#todo5318 
-This tab is used to copy paste a message template to easily send to individual members.
+![[Pasted image 20260426155039.png|668]]
+This tab is used to copy paste a message template to easily send to individual members as a reminder with all the necessary details.
+
+## [[Scheduling|Next ➡️]]

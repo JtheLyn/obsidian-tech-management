@@ -21,11 +21,10 @@ Some volunteers tend to be comfortable with a single role. You can take them out
 
 Keep an eye out for those with the skill, initiative, and passion for tech. Further develop and empower them for [[index#^1bf68c|leadership and management roles]].
 
-```
+<div style="font-family: monospace; font-size: 14px;">
 In Judges chapter 7, Gideon needed men for his army. God chose 300 out of 10,000 men (3%) to be Israel's fighers. How were they chosen? Based on how they drank water. The men who didn't let their guard down, even when they should be resting, were the ones chosen. 
-
-Likewise, I want you to look for the smallest qualities in each member that will often go overlooked: how they are always alert, how they handle being corrected, how they always come in early, how they eagerly want to learn more, how they commit to serve even if it's inconvenient to their schedule.
-
-They may be few, but it's up to God to use them mightily.
-```
-
+<p>
+Likewise, I want you to look for the smallest qualities in each member that sets them apart. Look at the minute details which often go overlooked: how they are always alert, how they handle being corrected, how they always come in early, how they eagerly want to learn more, how they commit to serve even if it's inconvenient to their schedule.
+<p>
+They may be few, but it's up to God to use them mightily. Don't go searching for the "perfect volunteer" because there is none. But look for the volunteer who strives for excellence.
+</div>
