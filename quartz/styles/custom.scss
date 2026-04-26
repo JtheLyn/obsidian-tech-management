@@ -1,3 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+pre code {
+    white-space: pre-wrap !important;
+    word-wrap: break-word;
+}
