@@ -11,7 +11,9 @@
 ## Daily
 - In case one doesn't reply, gently [[Spreadsheet#Message|message]] them again the next day. They may have read the notification but forgot to confirm.
 - Find someone to fill the role in the event that a volunteer does not reply in time or is unavailable. You may do it yourself, or ask them to find someone to fill in for them.
----
+
+>[!info] Be considerate before messaging
+> Be mindful of work/rest hours as well as rest days such as weekends when messaging.
 
 >[!warning] Scheduling Conflict
 > Some volunteers may be serving in multiple ministries which may cause scheduling conflicts. The monthly deck aims to avoid this by letting them block out their schedule beforehand. If multiple volunteers have schedules that clash with the same ministry, it is a good idea to coordinate with the ministry head or admin to avoid any hassle.
